@@ -8,8 +8,6 @@ target/
 **/*.rs.bk
 
 # Secretos y Config
-.env
-.env.local
 
 # OS
 .DS_Store
@@ -29,3 +27,4 @@ brain/
 task.md
 implementation_plan.md
 walkthrough.md
+config.bat
